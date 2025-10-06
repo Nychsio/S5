@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "3e0220123d033e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c46bda6a1c094b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7adc80f521d18052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ogólne/Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "a5a50ef82bccf941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hurtowanie danych/ogólne 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ogólne 1"
+            }
+          },
+          {
+            "id": "8b7202d5f49c8490",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "e48f7a0690e5e32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chipsy/lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7f01adda3278bcd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7969bedff89db2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7878b0f26184b46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd2865684a34959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "404194f1dc1fc613",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9980d44e64b19d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d3b12182ff7dfbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95043b7d889d3607",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0bd2862416aacf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247800f5a9abeaae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ogólne/Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plan"
+            }
+          },
+          {
+            "id": "4437048b3133f27a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ogólne/Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plan"
+            }
+          },
+          {
+            "id": "a0a2b0910806554f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ca12ee21e941fef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ogólne/Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e48f7a0690e5e32b",
+  "lastOpenFiles": [
+    "Uczenie Głębokie/Ogólne.md",
+    "chipsy/lab 1.md",
+    "chipsy",
+    "Kania",
+    "Untitled.md",
+    "hurtowanie danych/ogólne 1.md",
+    "hurtowanie danych",
+    "Ogólne/Plan.md",
+    "Welcome.md",
+    "Ogólne",
+    "Organizacyjne uczenie się",
+    "Organizacyjne uczenie się/oraganizacyjne uczenie się Wykłady",
+    "Organizacyjne uczenie się/Organizacyjne uczenie się Lab",
+    "Meterologia",
+    "Uczenie Głębokie",
+    "Szukanie i klasyfikowanie danych"
+  ]
+}
