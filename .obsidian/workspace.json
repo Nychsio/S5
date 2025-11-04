@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "5113374987432f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6e09d4cfd138b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b31a36da53c6fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S5/chatboty/lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 1"
+            }
+          },
+          {
+            "id": "816f72c4cb1fe4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S5/wilczewska/lab3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab3"
+            }
+          },
+          {
+            "id": "1a74e7ff0057a264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metrologia/metorlogia ćwiczenia 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metorlogia ćwiczenia 5"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26a86be0c36189ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "092ab30fc7e33845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "634c10acb40a8294",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f2ccb495b537f10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e72737f0142de03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4741cdc13a470d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cfd45ad07ae4baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb182811f038df4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python moje/do chipsiaka/Regexy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Regexy"
+            }
+          },
+          {
+            "id": "1ff91716afc95eca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python moje/do chipsiaka/Regexy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Regexy"
+            }
+          },
+          {
+            "id": "72001078dd213ad5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41781fd16f52c440",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python moje/do chipsiaka/Regexy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Regexy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "634c10acb40a8294",
+  "lastOpenFiles": [
+    "metrologia",
+    "S5/wilczewska/lab3.md",
+    "metrologia/metorlogia ćwiczenia 5.md",
+    "Python moje/Datacamp/Introduction to NLP in py/introduction-to-natural-language-processing-in-python.md",
+    "Pasted image 20251029001551.png",
+    "S5/chatboty/gemini gems.md",
+    "Python moje/Datacamp/Introduction to NLP in py",
+    "Python moje/Datacamp",
+    "S5/chatboty/lab 1.md",
+    "S5/chipsy/lab 3 gal.md",
+    "S5/Ogólne/Plan.md",
+    "Python moje/kanieczna/Słowniczek.md",
+    "S5/chipsy/do chipsiaka/numpy.md",
+    "S5/chipsy/do chipsiaka/lab 1.md",
+    "S5/hurtowanie danych/ogólne 1.md",
+    "S5/wilczewska/lab 1.md",
+    "S5/wilczewska",
+    "Python moje/kaggle Binary class/Binary Classification.md",
+    "Python moje/kaggle Binary class",
+    "S5/hurtowanie danych/Wykład 1.md",
+    "S5/cieplak/lab 2.md",
+    "S5/cieplak",
+    "S5/chatboty",
+    "S5/Uczenie Głębokie/wykłady/Wykład.md",
+    "S5/Uczenie Głębokie/wykłady/Wykład 3.md",
+    "S5/Uczenie Głębokie/wykłady/Wykład 2.md",
+    "S5/Uczenie Głębokie/wykłady",
+    "S5/Uczenie Głębokie/kaniuszka/Słowniczek.md",
+    "S5/Uczenie Głębokie/kaniuszka/lab 2.md",
+    "S5/Uczenie Głębokie/kaniuszka",
+    "S5/Sk/lab 3.md",
+    "S5/Sk",
+    "Python moje/Kurs Keras.md",
+    "S5/Python moje",
+    "Python moje/NLP standford/Wykład 1.md",
+    "S5/Dziekan/wykład 2.md",
+    "S5/Dziekan/wykład 1.md"
+  ]
+}
